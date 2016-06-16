@@ -6,7 +6,6 @@ IF EXISTS (select * from sys.server_event_sessions
 		DROP EVENT SESSION [AlwaysOn_Data_Movement_Tracing] ON SERVER 
 GO
 CREATE EVENT SESSION [AlwaysOn_Data_Movement_Tracing] ON SERVER 
---ADD EVENT ucs.ucs_connection_flow_control,
 ADD EVENT sqlserver.hadr_apply_log_block,
 ADD EVENT sqlserver.hadr_capture_log_block,
 ADD EVENT sqlserver.hadr_database_flow_control_action,
