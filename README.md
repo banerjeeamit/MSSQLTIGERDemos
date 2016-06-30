@@ -4,4 +4,6 @@ This is a repository of the scripts used during demos that are delivered by the 
 <h3>AlwaysOn Availability Groups</h3>
 <li>	Lease Timeout </li>
 <li>	Latency related Extended Events </li>
+<h3>Security</h3>
+<li>  TLS 1.2</li>
 
