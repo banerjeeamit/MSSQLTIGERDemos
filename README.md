@@ -6,4 +6,6 @@ This is a repository of the scripts used during demos that are delivered by the 
 <li>	Latency related Extended Events </li>
 <h3>Security</h3>
 <li>  TLS 1.2</li>
+<h3>Database Engine</h3>
+<li>	Backup, Restore and Recovery Extended Events </li>
 
