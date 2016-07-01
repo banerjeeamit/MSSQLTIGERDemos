@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <columnSettings>
+    <ColumnSetting name="name">
+      <width>160</width>
+      <mergedColumns />
+    </ColumnSetting>
+    <ColumnSetting name="timestamp">
+      <width>160</width>
+      <mergedColumns />
+    </ColumnSetting>
+    <ColumnSetting name="operation_type">
+      <width>100</width>
+      <mergedColumns />
+    </ColumnSetting>
+    <ColumnSetting name="trace_level">
+      <width>204</width>
+      <mergedColumns />
+    </ColumnSetting>
+    <ColumnSetting name="trace_message">
+      <width>724</width>
+      <mergedColumns />
+    </ColumnSetting>
+    <ColumnSetting name="database_name">
+      <width>100</width>
+      <mergedColumns />
+    </ColumnSetting>
+  </columnSettings>
+</ViewSetting>
