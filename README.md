@@ -9,5 +9,5 @@ This is a repository of the scripts used during demos that are delivered by the 
 <h3>Database Engine</h3>
 <li>	Backup, Restore and Recovery Extended Events </li>
 <h3>SQL Server Performance Baseline<h3>
-Sample solution to quickly setup baselining for your SQL Server instances using DMVs and Extended Events
+<li>Sample solution to quickly setup baselining for your SQL Server instances using DMVs and Extended Events</li>
 
